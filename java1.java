@@ -1,2 +1,0 @@
-system.out
-2
